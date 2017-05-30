@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 gfgfgfgfgf
 jgvikjodsf
 dfdsfds22222
+=======
+gfgfgfgfgf
+>>>>>>> parent of 842adec... editar texto de prueba
